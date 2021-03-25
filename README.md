@@ -1,4 +1,3 @@
-Попыталась сделать парраллакс эффект
-Вроде получилось неплохо
+Баловство на досуге
 
-Результат здесь: https://evilnekromat777.github.io/test/
+https://evilnekromat777.github.io/Parallax/
